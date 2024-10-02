@@ -1,0 +1,49 @@
+[
+  {
+    "objectID": "notebooks/test3.html",
+    "href": "notebooks/test3.html",
+    "title": "My Document 3",
+    "section": "",
+    "text": "import math\nmath.pow(3,1)\n\n3.0",
+    "crumbs": [
+      "Notebooks dir"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "test2.html",
+    "href": "test2.html",
+    "title": "My Notebook",
+    "section": "",
+    "text": "testy",
+    "crumbs": [
+      "qmd book"
+    ]
+  },
+  {
+    "objectID": "test3.html",
+    "href": "test3.html",
+    "title": "My Document 3",
+    "section": "",
+    "text": "import math\nmath.pow(3,1)\n\n3.0",
+    "crumbs": [
+      "Notebooks 4"
+    ]
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "My Document 2",
+    "section": "",
+    "text": "Test\n\nimport math\n\nmath.pow(2,2)"
+  }
+]
