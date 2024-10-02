@@ -5,3 +5,5 @@ title: "test"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+[![image](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/GMoncrieff/TNC-AWS-training-2024/blob/main/test.ipynb)
