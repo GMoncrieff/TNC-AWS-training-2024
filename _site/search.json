@@ -115,7 +115,7 @@
     "href": "index.html",
     "title": "TNC Science Gathering 2024 capacity building session: Cloud-based Geospatial Analysis",
     "section": "",
-    "text": "Materials for cloud-based analysis of geospatial data capacity building session at TNC science gathering 2024\nClick the button below to open the Jupyter notebook in Studio Lab. Be sure to select ‘clone entire repository’ when prompted. Studio lab will also ask if you want to install required packages from environment.yml.",
+    "text": "Materials for cloud-based analysis of geospatial data capacity building session at TNC science gathering 2024\nClick the button below to open the Jupyter notebook in Studio Lab. Be sure to select clone entire repo when prompted. Make sure the checkbox to install required packages from environment.yml is checked when prompted.",
     "crumbs": [
       "Setup"
     ]

@@ -15,7 +15,7 @@ dependencies:
   - holoviews
   - cartopy
   - hvplot
-  - sklearn
+  - scikit-learn
   - xgboost
   - lightgbm
   - s3fs

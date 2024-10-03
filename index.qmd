@@ -6,7 +6,7 @@ date-format: short
 
 Materials for cloud-based analysis of geospatial data capacity building session at TNC science gathering 2024
 
-Click the button below to open the Jupyter notebook in Studio Lab. Be sure to select 'clone entire repository' when prompted. Studio lab will also ask if you want to install required packages from [environment.yml](environment.yml).
+Click the button below to open the Jupyter notebook in Studio Lab. Be sure to select __clone entire repo__ when prompted. Make sure the checkbox to install required packages from [environment.yml](environment.yml) is checked when prompted.
 
 [![](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/GMoncrieff/TNC-AWS-training-2024/blob/main/notebooks/test.ipynb)
 
