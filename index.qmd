@@ -1,9 +1,12 @@
 ---
-title: "test"
+title: "TNC Science Gathering 2024 capacity building session: Cloud-based Geospatial Analysis"
+date: 2024-09-30
+date-format: short
 ---
 
-This is a Quarto website.
+Materials for cloud-based analysis of geospatial data capacity building session at TNC science gathering 2024
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Click the button below to open the Jupyter notebook in Studio Lab. Be sure to select 'clone entire repository' when prompted. Studio lab will also ask if you want to install required packages from [environment.yml](environment.yml).
 
-[![image](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/GMoncrieff/TNC-AWS-training-2024/blob/main/test.ipynb)
+[![](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/GMoncrieff/TNC-AWS-training-2024/blob/main/notebooks/test.ipynb)
+

@@ -1,0 +1,24 @@
+name: geospatial-gathering
+
+dependencies:
+  - python=3.12
+  - ipykernel
+  - xarray
+  - h5netcdf
+  - netcdf4
+  - zarr
+  - rioxarray
+  - geopandas
+  - numpy
+  - pandas
+  - matplotlib
+  - holoviews
+  - cartopy
+  - hvplot
+  - sklearn
+  - xgboost
+  - lightgbm
+  - s3fs
+  - shap
+  - earthaccess
+  - dask
